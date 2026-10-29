@@ -1,0 +1,15 @@
+{
+  "repository": "highcharts/highcharts",
+  "revision": "e3552656ae049390463c3fe9ebeecc0c58d229ee",
+  "skills": [
+    "highcharts-accessibility",
+    "highcharts-data",
+    "highcharts-exporting",
+    "highcharts-gantt",
+    "highcharts-js",
+    "highcharts-maps",
+    "highcharts-morningstar",
+    "highcharts-react",
+    "highcharts-stock"
+  ]
+}
