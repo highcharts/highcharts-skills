@@ -79,7 +79,7 @@ Submit changes to the source repository; publication replaces this repository's
 workflows.
 
 See the
-[build guide](https://github.com/highcharts/highcharts/blob/e3552656ae049390463c3fe9ebeecc0c58d229ee/tools/GENERATE-DOC-SKILLS.md)
+[build guide](https://github.com/highcharts/highcharts/blob/master/tools/GENERATE-DOC-SKILLS.md)
 and
-[publication setup](https://github.com/highcharts/highcharts/blob/e3552656ae049390463c3fe9ebeecc0c58d229ee/.github/workflows/skills-publish.md)
+[publication setup](https://github.com/highcharts/highcharts/blob/master/.github/workflows/skills-publish.md)
 for validation and publishing instructions.
